@@ -421,7 +421,7 @@ h1{
   margin-left: 50px !important;
 }
 .picture img{
-  width: 400px !important;
+  width: 300px !important;
   margin: 0px !important;
   padding: 0px !important;
 }
@@ -479,7 +479,7 @@ h2{
   height: 40px;
 }
 .image1{
-  margin-left: 80px !important;
+  margin-left: 30px !important;
 }
 .image1 img{
   width: 350px ;
@@ -503,7 +503,7 @@ h3{
 .row3{
   display: flex;
   flex-direction: column;
-  width: 90%;
+  width: 80%;
 }
 h4{
   font-size: 30px !important;
@@ -518,7 +518,7 @@ h4{
 .card-content{
   margin: 0px !important;
   margin-top: 40px !important;
-  margin-left: 20px !important;
+  margin-left:15px !important;
 }
 .card-body1{
   width: 200px !important;
@@ -566,13 +566,13 @@ h5{
   
 }
 .cards{
-margin-left: 50px !important;
+/* margin-left: 30px !important; */
 }
 .cards1,.cards2{
   margin-top: 20px !important;
 }
 .cards,.cards1,.cards2{
-  margin-left: 30px!important;
+  margin-left: 20px!important;
 }
 .flows{
   margin-top: 60px !important;
@@ -587,17 +587,17 @@ margin-left: 50px !important;
 .img1 img{
   height: 450px !important;
   width: 450px !important;
-  margin-left: 15px !important;
+  margin-left: 10px !important;
 }
 .img2 .two{
   margin: 0px !important;
   margin-top: 10px !important;
-  margin-left: 15px !important;
+  margin-left: 10px !important;
 }
 .img2 img{
   margin: 0px !important;
   width: 450px;
-  margin-left: 20px !important;
+  margin-left: 10px !important;
   height: 350px;
 }
 .img2 .one{
@@ -607,7 +607,7 @@ margin-left: 50px !important;
   margin: 0px !important;
   width: 450px;
   height: 350px;
-  margin-left: 15px !important;
+  margin-left: 10px !important;
 }
  .img3 .three, .img3 .four{
   margin-top: 20px !important;
@@ -632,7 +632,7 @@ margin-left: 50px !important;
 }
 .crd1{
   margin-top: -10px!important;
-  margin-left: 80px !important;
+  margin-left: 50px !important;
 }
 .icon4{
   margin-top: -35px;
@@ -642,7 +642,7 @@ margin-left: 50px !important;
  margin-top: -35px !important;
 }
 .crd2{
-  margin-left: 80px !important;
+  margin-left: 50px !important;
 }
 .icon3{
   margin-top: -55px;
@@ -652,7 +652,7 @@ margin-left: 50px !important;
  margin-top: -55px !important;
 }
 .crd3{
-  margin-left: 80px !important;
+  margin-left: 50px !important;
 }
 .icon9{
 
@@ -675,8 +675,12 @@ margin-left: 50px !important;
   width: 80%;
 }
 .boddy{
-  margin-left: 25px !important;
+  margin: 0px !important;
   height: auto;
+}
+.bodyy{
+  margin: 0px !important;
+  margin-top: 20px !important;
 }
 
 .bttn{
