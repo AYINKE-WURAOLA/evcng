@@ -521,8 +521,11 @@ h4{
   margin-left:10px !important;
 }
 .card-body1{
-  width: 170px !important;
-  height: 170px !important;
+  width: 150px !important;
+  height: 150px !important;
+}
+.paraa{
+  font-size: 14px !important;
 }
 .image img{
   width: 50px !important;
@@ -532,8 +535,8 @@ h4{
 }
 .card-body2{
   margin: 0px !important;
-  margin-top: -210px !important;
-  margin-left: 180px!important;
+  margin-top: -190px !important;
+  margin-left: 160px!important;
 }
 .card-body3,.card-body4{
   margin: 0px !important;
@@ -542,8 +545,8 @@ h4{
   margin-top: -70px !important;
 }
 .card-body4{
-  margin-top: -210px !important;
-  margin-left: 180px !important;
+  margin-top: -190px !important;
+  margin-left: 160px !important;
 }
 .section4{
   height: auto;
@@ -591,8 +594,8 @@ h5{
   margin-top: 40px!important;
 }
 .img1 img{
-  height: 350px !important;
-  width: 350px !important;
+  height: 300px !important;
+  width: 300px !important;
   margin-left: 10px !important;
 }
 .img2 .two{
@@ -602,17 +605,17 @@ h5{
 }
 .img2 img{
   margin: 0px !important;
-  width: 350px;
+  width: 300px;
   margin-left: 10px !important;
-  height: 350px;
+  height: 300px;
 }
 .img2 .one{
   margin-top: 10px !important;
 }
 .img3 img{
   margin: 0px !important;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   margin-left: 10px !important;
 }
  .img3 .three, .img3 .four{
