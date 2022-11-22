@@ -407,7 +407,7 @@ color: #ed7e2c;
 .contain{
   margin: 0px !important;
   padding: 0px !important;
-  width: 100%;
+  width: 80%;
 }
 h1{
   font-size: 30px;
@@ -429,13 +429,14 @@ h1{
   height: auto;
 }
 .contain2{
-  width: 100%;
+  width: 80%;
   padding: 0px !important;
 }
 .row1{
   display: flex;
-  width: 600px !important;
+  width: 450px !important;
   height: 100px !important;
+  width: 80%;
 
 }
 h2{
@@ -443,7 +444,7 @@ h2{
 }
 .para2{
   margin: 0px !important;
-  margin-top: 50px !important;
+  margin-top: 30px !important;
   font-size: 15px !important
 }
 .first{
@@ -456,7 +457,7 @@ h2{
   margin-left: 5px !important;
 }
 .contain3{
-  width: 100%;
+  width: 80%;
   padding: 0px !important;
   margin-top: 50px !important;
 }
@@ -478,7 +479,7 @@ h2{
   height: 40px;
 }
 .image1{
-  margin-left: 90px !important;
+  margin-left: 80px !important;
 }
 .image1 img{
   width: 350px ;
@@ -492,7 +493,7 @@ h2{
   
 }
 .contain4{
-  width: 100%;
+  width: 80%;
   padding: 0px !important;
   padding-top: 40px !important;
 }
@@ -517,7 +518,7 @@ h4{
 .card-content{
   margin: 0px !important;
   margin-top: 40px !important;
-  margin-left: 30px !important;
+  margin-left: 20px !important;
 }
 .card-body1{
   width: 200px !important;
@@ -565,13 +566,13 @@ h5{
   
 }
 .cards{
-margin-left: 80px !important;
+margin-left: 50px !important;
 }
 .cards1,.cards2{
   margin-top: 20px !important;
 }
 .cards,.cards1,.cards2{
-  margin-left: 40px!important;
+  margin-left: 30px!important;
 }
 .flows{
   margin-top: 60px !important;
@@ -586,12 +587,12 @@ margin-left: 80px !important;
 .img1 img{
   height: 450px !important;
   width: 450px !important;
-  margin-left: 20px !important;
+  margin-left: 15px !important;
 }
 .img2 .two{
   margin: 0px !important;
   margin-top: 10px !important;
-  margin-left: 20px !important;
+  margin-left: 15px !important;
 }
 .img2 img{
   margin: 0px !important;
@@ -606,7 +607,7 @@ margin-left: 80px !important;
   margin: 0px !important;
   width: 450px;
   height: 350px;
-  margin-left: 20px !important;
+  margin-left: 15px !important;
 }
  .img3 .three, .img3 .four{
   margin-top: 20px !important;
@@ -631,7 +632,7 @@ margin-left: 80px !important;
 }
 .crd1{
   margin-top: -10px!important;
-  margin-left: 100px !important;
+  margin-left: 80px !important;
 }
 .icon4{
   margin-top: -35px;
@@ -641,7 +642,7 @@ margin-left: 80px !important;
  margin-top: -35px !important;
 }
 .crd2{
-  margin-left: 100px !important;
+  margin-left: 80px !important;
 }
 .icon3{
   margin-top: -55px;
@@ -651,7 +652,7 @@ margin-left: 80px !important;
  margin-top: -55px !important;
 }
 .crd3{
-  margin-left: 100px !important;
+  margin-left: 80px !important;
 }
 .icon9{
 
@@ -674,7 +675,7 @@ margin-left: 80px !important;
   width: 80%;
 }
 .boddy{
-  margin-left: 40px !important;
+  margin-left: 25px !important;
   height: auto;
 }
 
