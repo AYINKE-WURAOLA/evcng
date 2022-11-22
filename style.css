@@ -407,7 +407,7 @@ color: #ed7e2c;
 .contain{
   margin: 0px !important;
   padding: 0px !important;
-  width: 80%;
+  width: 100%;
 }
 h1{
   font-size: 30px;
@@ -429,14 +429,14 @@ h1{
   height: auto;
 }
 .contain2{
-  width: 80%;
+  width: 100%;
   padding: 0px !important;
 }
 .row1{
   display: flex;
-  width: 450px !important;
-  height: 100px !important;
-  width: 80%;
+  width: 380px!important;
+  height: 120px !important;
+  
 
 }
 h2{
@@ -448,7 +448,7 @@ h2{
   font-size: 15px !important
 }
 .first{
-  margin-left: -250px !important;
+  margin-left: -300px !important;
 }
 .second{
   margin-left: 5px !important;
@@ -457,7 +457,7 @@ h2{
   margin-left: 5px !important;
 }
 .contain3{
-  width: 80%;
+  width: 90%;
   padding: 0px !important;
   margin-top: 50px !important;
 }
@@ -482,7 +482,7 @@ h2{
   margin-left: 30px !important;
 }
 .image1 img{
-  width: 350px ;
+  width: 250px ;
   margin: 0px !important;
   margin-bottom: 100px !important;
   margin-top: 20px !important;
@@ -493,7 +493,7 @@ h2{
   
 }
 .contain4{
-  width: 80%;
+  width: 90%;
   padding: 0px !important;
   padding-top: 40px !important;
 }
@@ -503,7 +503,7 @@ h3{
 .row3{
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 100%;
 }
 h4{
   font-size: 30px !important;
@@ -518,26 +518,32 @@ h4{
 .card-content{
   margin: 0px !important;
   margin-top: 40px !important;
-  margin-left:15px !important;
+  margin-left:10px !important;
 }
 .card-body1{
-  width: 200px !important;
-  height: 200px !important;
+  width: 170px !important;
+  height: 170px !important;
+}
+.image img{
+  width: 50px !important;
+}
+.card-boddy{
+  margin-top: -20px !important;
 }
 .card-body2{
   margin: 0px !important;
-  margin-top: -240px !important;
-  margin-left: 230px!important;
+  margin-top: -210px !important;
+  margin-left: 180px!important;
 }
 .card-body3,.card-body4{
   margin: 0px !important;
 }
 .card-body3{
-  margin-top: -60px !important;
+  margin-top: -70px !important;
 }
 .card-body4{
-  margin-top: -240px !important;
-  margin-left: 230px !important;
+  margin-top: -210px !important;
+  margin-left: 180px !important;
 }
 .section4{
   height: auto;
@@ -545,7 +551,7 @@ h4{
 }
 .main{
   padding: 0px !important;
-  width: 80%;
+  width: 100%;
 }
 h5{
   font-size: 29px !important;
@@ -556,13 +562,13 @@ h5{
 .row5{
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 90%;
 }
 .content1{
   margin: 0px !important;
 }
 .card{
-  width: 400px !important;
+  width: 300px !important;
   
 }
 .cards{
@@ -572,7 +578,7 @@ h5{
   margin-top: 20px !important;
 }
 .cards,.cards1,.cards2{
-  margin-left: 20px!important;
+  margin-left: 10px!important;
 }
 .flows{
   margin-top: 60px !important;
@@ -585,8 +591,8 @@ h5{
   margin-top: 40px!important;
 }
 .img1 img{
-  height: 450px !important;
-  width: 450px !important;
+  height: 350px !important;
+  width: 350px !important;
   margin-left: 10px !important;
 }
 .img2 .two{
@@ -596,7 +602,7 @@ h5{
 }
 .img2 img{
   margin: 0px !important;
-  width: 450px;
+  width: 350px;
   margin-left: 10px !important;
   height: 350px;
 }
@@ -605,7 +611,7 @@ h5{
 }
 .img3 img{
   margin: 0px !important;
-  width: 450px;
+  width: 350px;
   height: 350px;
   margin-left: 10px !important;
 }
@@ -674,15 +680,13 @@ h5{
   flex-direction: column;
   width: 80%;
 }
-.boddy{
-  margin: 0px !important;
-  height: auto;
-}
 .bodyy{
   margin: 0px !important;
   margin-top: 20px !important;
 }
-
+.boddy{
+  width: 300px !important;
+}
 .bttn{
 top: -2px !important;
 left: 10px !important;
